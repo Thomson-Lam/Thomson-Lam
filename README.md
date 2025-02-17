@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Welcome to my GitHub profile, glad you're here! I'm Thomson, a second year Computer Science student @ Western University.
+Welcome to my GitHub profile, glad you're here! I'm Thomson, a second year Computer Science student from Western University.
 
 ## About me 📝 
 
