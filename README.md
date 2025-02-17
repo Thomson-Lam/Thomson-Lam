@@ -1,3 +1,5 @@
+![3D Profile](profile-3d-contrib/profile-night-view.svg)
+
 ## Hi there 👋
 
 Welcome to my GitHub profile, glad you're here! I'm Thomson, a second year Computer Science student @ Western University.
