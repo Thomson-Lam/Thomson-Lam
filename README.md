@@ -2,7 +2,7 @@
 
 # Thomson Lam 
 
-Loves warm weather and making whatever I find useful or fun. Trying to fully automate 3D printing and manufacturing, loves to tackle hard problems to chase the satisfaction of solving them. Always looking to do and be better.
+Loves warm weather and making whatever I find useful or fun. Trying to fully automate 3D printing and manufacturing, tends to tackle hard problems to chase the satisfaction of solving them. Always looking to do and be better.
 
 ![happy](happy.jpeg)
 
