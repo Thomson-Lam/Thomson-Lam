@@ -1,16 +1,18 @@
 ![3D Profile](profile-3d-contrib/profile-night-view.svg)
 
-## Hi there 👋
+# Thomson Lam 
 
-Welcome to my GitHub profile, glad you're here! I'm Thomson, a second year Computer Science student from Western University.
+Loves warm weather and making whatever I find useful or fun. Trying to fully automate 3D printing and manufacturing, loves to tackle hard problems to chase the satisfaction of solving them. Always looking to do and be better.
 
-## About me 📝 
+![happy](happy.jpeg)
 
-- 🌱 I’m currently learning about heuristic algorithms and their applications 
-- 👯 I’m looking to collaborate on projects related to data models and ETL pipelines 
-- ⚡ Fun fact: I've never broken a bone in my life (yet)
+## Details 
 
-You can contact me here [LinkedIn](https://www.linkedin.com/in/thomson-lam-260b67292/)
+- 3rd year unc
+- NixOS + Arch lover 
+- Weak against gore and not very good at Catan; is a sore loser 
+
+Find me on [LinkedIn](https://www.linkedin.com/in/thomson-lam-260b67292/)
 
 
 
